@@ -1,0 +1,34 @@
+[
+  {
+    "title": "LexiSumm",
+    "description": "An abstractive text summarization tool powered by a fine-tuned BART model. Processes long-form Bengali and English documents and surfaces key insights through a clean Next.js interface.",
+    "tags": ["Python", "PyTorch", "HuggingFace", "Next.js"],
+    "github_url": "#",
+    "live_url": "#",
+    "featured": true
+  },
+  {
+    "title": "DevBoard",
+    "description": "A lightweight Kanban-style project management tool built for developer teams. Features real-time collaboration via WebSockets and native GitHub issue import.",
+    "tags": ["TypeScript", "SvelteKit", "PostgreSQL", "WebSockets"],
+    "github_url": "#",
+    "live_url": null,
+    "featured": true
+  },
+  {
+    "title": "BDWeather CLI",
+    "description": "A terminal weather companion for Bangladesh using the Bangladesh Meteorological Department's open API. Displays 7-day forecasts with ASCII art visualizations.",
+    "tags": ["Go", "CLI", "REST API"],
+    "github_url": "#",
+    "live_url": null,
+    "featured": false
+  },
+  {
+    "title": "AlgoViz",
+    "description": "An interactive algorithm visualizer for sorting, pathfinding, and tree traversal. Built as a learning tool for introductory data structures courses.",
+    "tags": ["JavaScript", "Canvas API", "CSS"],
+    "github_url": "#",
+    "live_url": "#",
+    "featured": false
+  }
+]

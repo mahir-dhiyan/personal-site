@@ -1,0 +1,7 @@
+{
+  "Languages": ["Python", "TypeScript", "JavaScript", "Go", "C", "C++", "SQL"],
+  "Frameworks & Libraries": ["SvelteKit", "Next.js", "React", "FastAPI", "PyTorch", "HuggingFace Transformers", "Node.js"],
+  "Databases": ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+  "Tools & Platforms": ["Git", "Docker", "Kubernetes", "Linux", "AWS", "Vercel", "Figma"],
+  "Concepts": ["Machine Learning", "Natural Language Processing", "REST APIs", "GraphQL", "CI/CD", "Agile/Scrum"]
+}

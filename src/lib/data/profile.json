@@ -1,0 +1,9 @@
+{
+  "name": "Mahir Dhiyan Chowdhury",
+  "role": "Computer Science Student & Researcher",
+  "location": "Dhaka, Bangladesh",
+  "email": "mahir@example.com",
+  "bio": "I'm a Computer Science student passionate about machine learning, distributed systems, and building tools that make developers' lives easier. Currently pursuing my undergraduate degree while conducting research in natural language processing.",
+  "avatar": "/avatar.png",
+  "openTo": ["Research Collaborations", "Internships", "Open Source"]
+}

@@ -1,0 +1,11 @@
+{
+  "intro": "Outside of research and code, I make a genuine effort to maintain a life that isn't entirely pixels and terminals.",
+  "items": [
+    { "emoji": "📚", "name": "Reading", "description": "Non-fiction, philosophy, and the occasional psychological thriller. Currently reading Thinking, Fast and Slow." },
+    { "emoji": "♟️", "name": "Chess", "description": "~1800 Elo on Lichess. Always up for a friendly blitz match." },
+    { "emoji": "🎸", "name": "Guitar", "description": "Fingerpicking acoustic. Currently working through Tommy Emmanuel pieces." },
+    { "emoji": "🏃", "name": "Running", "description": "5K three times a week. Slow, but consistent and proud of it." },
+    { "emoji": "✈️", "name": "Travel", "description": "Visited 8 countries so far. Next destination on the list: Japan." },
+    { "emoji": "🍳", "name": "Cooking", "description": "Mostly Bengali and Italian. A good biryani is non-negotiable." }
+  ]
+}

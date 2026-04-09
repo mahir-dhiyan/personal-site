@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Machine Learning Specialization",
+    "issuer": "Coursera · DeepLearning.AI",
+    "date": "Dec 2023",
+    "credential_url": "#",
+    "tags": ["ML", "Deep Learning", "Python"]
+  },
+  {
+    "title": "CS50x: Introduction to Computer Science",
+    "issuer": "Harvard · edX",
+    "date": "Jun 2022",
+    "credential_url": "#",
+    "tags": ["C", "Python", "Algorithms"]
+  },
+  {
+    "title": "The Web Developer Bootcamp",
+    "issuer": "Udemy",
+    "date": "Mar 2022",
+    "credential_url": "#",
+    "tags": ["HTML", "CSS", "JavaScript", "Node.js"]
+  },
+  {
+    "title": "Docker & Kubernetes: The Practical Guide",
+    "issuer": "Udemy",
+    "date": "Sep 2023",
+    "credential_url": "#",
+    "tags": ["Docker", "Kubernetes", "DevOps"]
+  },
+  {
+    "title": "Natural Language Processing Specialization",
+    "issuer": "Coursera · DeepLearning.AI",
+    "date": "Feb 2024",
+    "credential_url": "#",
+    "tags": ["NLP", "Transformers", "Python"]
+  },
+  {
+    "title": "AWS Cloud Practitioner Essentials",
+    "issuer": "AWS Training",
+    "date": "Jul 2023",
+    "credential_url": "#",
+    "tags": ["AWS", "Cloud", "DevOps"]
+  }
+]
