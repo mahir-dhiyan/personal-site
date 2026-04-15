@@ -15,6 +15,13 @@
 
 <svelte:head>
 	<title>{project.title} — Mahir Dhiyan Chowdhury</title>
+	<meta property="og:title" content="{project.title} — Mahir Dhiyan Chowdhury" />
+	<meta property="og:description" content={project.description} />
+	<meta property="og:image" content="/og.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="{project.title} — Mahir Dhiyan Chowdhury" />
+	<meta name="twitter:description" content={project.description} />
+	<meta name="twitter:image" content="/og.jpg" />
 </svelte:head>
 
 <Navbar />

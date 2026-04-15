@@ -26,6 +26,14 @@
 		property="og:description"
 		content="Mechanical Engineer and researcher at CUET. Interested in NLP, distributed systems, and open source."
 	/>
+	<meta property="og:image" content="/og.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Mahir Dhiyan Chowdhury" />
+	<meta
+		name="twitter:description"
+		content="Mechanical Engineer and researcher at CUET. Interested in NLP, distributed systems, and open source."
+	/>
+	<meta name="twitter:image" content="/og.jpg" />
 </svelte:head>
 
 <Navbar />
