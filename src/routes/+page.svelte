@@ -3,6 +3,7 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import Education from '$lib/components/Education.svelte';
 	import Courses from '$lib/components/Courses.svelte';
+	import Awards from '$lib/components/Awards.svelte';
 	import ECA from '$lib/components/ECA.svelte';
 	import Projects from '$lib/components/Projects.svelte';
 	import Research from '$lib/components/Research.svelte';
@@ -15,15 +16,15 @@
 </script>
 
 <svelte:head>
-	<title>Mahir Dhiyan Chowdhury — CS Student & Researcher</title>
+	<title>Mahir Dhiyan Chowdhury — Mechanical Engineer & Researcher</title>
 	<meta
 		name="description"
-		content="Personal website of Mahir Dhiyan Chowdhury — Computer Science student, researcher, and developer based in Dhaka, Bangladesh."
+		content="Personal website of Mahir Dhiyan Chowdhury — Mechanical Engineer, researcher"
 	/>
 	<meta property="og:title" content="Mahir Dhiyan Chowdhury" />
 	<meta
 		property="og:description"
-		content="CS student and researcher at BUET. Interested in NLP, distributed systems, and open source."
+		content="Mechanical Engineer and researcher at CUET. Interested in NLP, distributed systems, and open source."
 	/>
 </svelte:head>
 
@@ -33,6 +34,7 @@
 	<Hero />
 	<Education />
 	<Courses />
+	<Awards />
 	<ECA />
 	<Projects />
 	<Research />

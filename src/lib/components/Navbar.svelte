@@ -7,11 +7,11 @@
 	let mobileOpen = $state(false);
 
 	const links = [
-		{ label: 'Education', href: '#education' },
-		{ label: 'Projects', href: '#projects' },
-		{ label: 'Research', href: '#research' },
-		{ label: 'Experience', href: '#experience' },
-		{ label: 'Contact', href: '#contact' }
+		{ label: 'Education', href: '/#education' },
+		{ label: 'Projects', href: '/#projects' },
+		{ label: 'Research', href: '/#research' },
+		{ label: 'Experience', href: '/#experience' },
+		{ label: 'Contact', href: '/#contact' }
 	];
 
 	onMount(() => {
@@ -29,7 +29,7 @@
 		: 'border-opacity-0'}"
 >
 	<div class="max-w-3xl mx-auto px-6 h-14 flex items-center justify-between">
-		<a href="#hero" class="font-mono text-sm text-ink font-semibold tracking-tight">MDC</a>
+		<a href="/#hero" class="font-mono text-sm text-ink font-semibold tracking-tight">MDC</a>
 
 		<!-- Desktop links -->
 		<ul class="hidden md:flex items-center gap-7">

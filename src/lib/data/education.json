@@ -2,8 +2,8 @@
   {
     "institution": "Chittagong University of Engineering and Technology",
     "degree": "B.Sc. in Mechanical Engineering",
-    "year": "2022 - Present",
-    "gpa": "2.50 / 4.00",
+    "year": "2022 - 2026",
+    "gpa": "3.35 / 4.00",
     "location": "Chattogram, Bangladesh",
     "relevant_courses": ["Applied Thermodynamics", "Fluid Mechanics", "Heat Transfer", "Machine Design", "Control Systems", "Robotics"]
   },
@@ -11,6 +11,14 @@
     "institution": "Government Hazi Muhammad Mohsin College",
     "degree": "Higher Secondary Certificate (HSC)",
     "year": "2018 - 2020",
+    "gpa": "5.00 / 5.00",
+    "location": "Chattogram, Bangladesh",
+    "relevant_courses": []
+  },
+  {
+    "institution": "Ispahani Public School and College",
+    "degree": "Secondary School Certificate (SSC)",
+    "year": "2016 - 2018",
     "gpa": "5.00 / 5.00",
     "location": "Chattogram, Bangladesh",
     "relevant_courses": []

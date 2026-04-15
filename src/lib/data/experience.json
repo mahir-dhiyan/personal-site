@@ -1,27 +1,34 @@
 [
   {
-    "company": "Chaldal Ltd.",
-    "role": "Software Engineering Intern",
-    "period": "May 2024 – Aug 2024",
-    "location": "Dhaka, Bangladesh",
-    "type": "Internship",
+    "company": "KAFCO",
+    "logo": "kafco.png",
+    "role": "Engineering Trainee – Mechanical Maintenance",
+    "period": "Jan 2026",
+    "location": "Chattogram, Bangladesh · On-site",
+    "type": "Industrial Attachment",
     "bullets": [
-      "Built and maintained microservices for order management using Node.js and PostgreSQL.",
-      "Reduced average API response time by 34% through query optimization and Redis caching.",
-      "Shipped a real-time delivery tracking feature used by 50,000+ daily active users.",
-      "Participated in bi-weekly sprint planning, code reviews, and architecture discussions."
+      "Completed industrial attachment in the Mechanical Maintenance department, gaining hands-on exposure across seven key sections.",
+      "Rotary Maintenance and Condition Monitoring (RMCM): Predictive maintenance and equipment reliability monitoring.",
+      "Ammonia Maintenance: High-pressure system maintenance and safety protocols.",
+      "Urea and Granulation Maintenance: Production equipment maintenance and troubleshooting.",
+      "Utility Maintenance: Supporting infrastructure and auxiliary systems.",
+      "PH&S Maintenance: Packaging systems maintenance.",
+      "Mechanical Workshop: Precision machining, fabrication, and repair operations.",
+      "MES Maintenance: Mobile equipment and heavy machinery maintenance.",
+      "Developed practical skills in preventive maintenance planning, equipment troubleshooting, cross-functional coordination, and industrial safety protocols."
     ]
   },
   {
-    "company": "Freelance",
-    "role": "Full-Stack Web Developer",
-    "period": "Jan 2022 – Apr 2024",
+    "company": "Jawfit",
+    "logo": "Jawfit.jpg",
+    "role": "Strategic Sourcing Specialist",
+    "period": "Jun 2025 – Jul 2025",
     "location": "Remote",
     "type": "Freelance",
     "bullets": [
-      "Developed and delivered 10+ custom web applications for clients in e-commerce, education, and fintech.",
-      "Primary stack: Next.js, Node.js, MongoDB, and Stripe payments integration.",
-      "Maintained long-term client relationships with a 100% project completion rate."
+      "Tasked with driving the preliminary sourcing strategy for JawFit's hard Xylitol jaw-training gum.",
+      "Laid the groundwork for a secure, cost-effective supply chain through strategic supplier identification and evaluation.",
+      "Conducted sourcing and procurement activities to support product development."
     ]
   }
 ]

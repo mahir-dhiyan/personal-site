@@ -1,22 +1,22 @@
 [
   {
-    "title": "Cross-lingual Transfer Learning for Low-Resource Bengali NLP Tasks",
-    "venue": "Under Review — ACL 2025",
-    "authors": ["Mahir D. Chowdhury", "Dr. A. Rahman", "Prof. S. Islam"],
-    "year": "2024",
-    "abstract": "We investigate the effectiveness of multilingual pre-trained language models for downstream NLP tasks in Bengali, a historically low-resource language. Our approach achieves state-of-the-art results on sentiment analysis and named entity recognition benchmarks, surpassing prior monolingual baselines by an average of 4.2 F1 points.",
-    "pdf_url": "#",
+    "title": "Modeling of Damage Progression in Brittle Ceramic Composites using Physics-Informed Neural Network",
+    "venue": "Undergraduate Thesis",
+    "authors": ["Mahir D. Chowdhury"],
+    "year": "Ongoing",
+    "abstract": "This undergraduate thesis focuses on modeling the complex mechanical behavior and failure mechanisms of brittle ceramic composites under stress by leveraging Physics-Informed Neural Networks (PINN). By integrating physical laws directly into the neural network's learning process, the model accurately simulates and predicts multifaceted damage progression, offering advanced predictive insights into composite structural integrity.",
+    "pdf_url": null,
     "doi_url": null,
-    "status": "Under Review"
+    "status": "Ongoing Thesis"
   },
   {
-    "title": "Efficient Graph Neural Networks for Social Network Analysis",
-    "venue": "BUET Undergraduate Research Symposium 2023",
-    "authors": ["Mahir D. Chowdhury", "T. Ahmed"],
-    "year": "2023",
-    "abstract": "A study on applying lightweight GNN architectures to community detection and link prediction tasks on large-scale social network datasets. We introduce a sparse attention mechanism that reduces memory footprint by 38% while preserving accuracy within 1% of dense baselines.",
-    "pdf_url": "#",
+    "title": "Early Prediction of Lithium-Ion Battery Cycle Life Using Electro-Thermal Features and Random Forest Regression",
+    "venue": "Research Project",
+    "authors": ["Mahir D. Chowdhury"],
+    "year": "Ongoing",
+    "abstract": "This ongoing research leverages Random Forest Regression algorithms to accurately forecast the comprehensive cycle life of lithium-ion batteries by analyzing their earliest electro-thermal feature extractions. Early predictive capabilities allow for the rapid and effective classification of good versus bad batteries, dramatically saving diagnostic testing time, improving quality assurance throughout production, and ensuring highly reliable long-term sustainable energy storage.",
+    "pdf_url": null,
     "doi_url": null,
-    "status": "Published"
+    "status": "Ongoing Research"
   }
 ]

@@ -1,11 +1,11 @@
 {
   "intro": "Outside of research and code, I make a genuine effort to maintain a life that isn't entirely pixels and terminals.",
   "items": [
-    { "emoji": "📚", "name": "Reading", "description": "Non-fiction, philosophy, and the occasional psychological thriller. Currently reading Thinking, Fast and Slow." },
-    { "emoji": "♟️", "name": "Chess", "description": "~1800 Elo on Lichess. Always up for a friendly blitz match." },
-    { "emoji": "🎸", "name": "Guitar", "description": "Fingerpicking acoustic. Currently working through Tommy Emmanuel pieces." },
-    { "emoji": "🏃", "name": "Running", "description": "5K three times a week. Slow, but consistent and proud of it." },
-    { "emoji": "✈️", "name": "Travel", "description": "Visited 8 countries so far. Next destination on the list: Japan." },
-    { "emoji": "🍳", "name": "Cooking", "description": "Mostly Bengali and Italian. A good biryani is non-negotiable." }
+    { "emoji": "📚", "name": "Reading", "description": "I primarily read non-fiction, but I'm also a huge Harry Potter fan. If I were sorted, I'm definitely more like a Slytherin." },
+    { "emoji": "🎸", "name": "Guitar", "description": "I love playing alternative rock. My absolute favorite guitarists are Synyster Gates from Avenged Sevenfold and Dimebag Darrell from Pantera." },
+    { "emoji": "🏎️", "name": "Formula 1 Racing", "description": "My favorite driver is Max Verstappen, but I closely follow Oscar Piastri and Kimi Antonelli too. I also really like the style of Lewis Hamilton." },
+    { "emoji": "⚡", "name": "Skipping", "description": "This is my absolute favorite kind of cardio, and I actively do it for my daily HIIT workouts." },
+    { "emoji": "🏊", "name": "Swimming", "description": "A refreshing way to cool off, stay active, and push my breathing and physical endurance." },
+    { "emoji": "🚲", "name": "Cycling", "description": "The perfect way to spend a cool evening outdoors while exploring the city and getting some solid cardio in." }
   ]
 }

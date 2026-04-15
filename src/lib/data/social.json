@@ -1,8 +1,7 @@
 [
-  { "platform": "GitHub", "url": "https://github.com/mahirdhiyan", "icon": "github" },
-  { "platform": "LinkedIn", "url": "https://linkedin.com/in/mahirdhiyan", "icon": "linkedin" },
-  { "platform": "Twitter / X", "url": "https://x.com/mahirdhiyan", "icon": "twitter" },
-  { "platform": "ResearchGate", "url": "https://researchgate.net/profile/mahirdhiyan", "icon": "flask-conical" },
-  { "platform": "Google Scholar", "url": "#", "icon": "graduation-cap" },
-  { "platform": "Email", "url": "mailto:mahir@example.com", "icon": "mail" }
+  { "platform": "GitHub", "url": "https://github.com/mahir-dhiyan", "icon": "github" },
+  { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/mahir-dhiyan/", "icon": "linkedin" },
+  { "platform": "Facebook", "url": "https://www.facebook.com/mahir.dhiyan", "icon": "facebook" },
+  { "platform": "Instagram", "url": "https://www.instagram.com/_mahir_dhiyan_", "icon": "instagram" },
+  { "platform": "Email", "url": "mailto:mahird.chowdhury@gmail.com", "icon": "mail" }
 ]

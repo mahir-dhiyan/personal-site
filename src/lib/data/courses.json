@@ -1,44 +1,44 @@
 [
   {
-    "title": "Machine Learning Specialization",
-    "issuer": "Coursera · DeepLearning.AI",
-    "date": "Dec 2023",
-    "credential_url": "#",
+    "title": "Introduction to Deep Learning with PyTorch",
+    "issuer": "DataCamp",
+    "date": "Dec 2025",
+    "credential_url": "https://www.datacamp.com/completed/statement-of-accomplishment/course/f79e1bf0121fe67de7a60def97b497b9d050e933",
     "tags": ["ML", "Deep Learning", "Python"]
   },
   {
-    "title": "CS50x: Introduction to Computer Science",
-    "issuer": "Harvard · edX",
-    "date": "Jun 2022",
-    "credential_url": "#",
-    "tags": ["C", "Python", "Algorithms"]
+    "title": "Physics Informed Neural Networks (PINNs)",
+    "issuer": "Udemy",
+    "date": "Sep 2025",
+    "credential_url": "https://www.udemy.com/certificate/UC-cebb4531-de9a-42ca-affe-d48e0a743950/",
+    "tags": ["Deep Learning", "Physics Informed Neural Networks"]
   },
   {
-    "title": "The Web Developer Bootcamp",
-    "issuer": "Udemy",
-    "date": "Mar 2022",
+    "title": "Procurement, Supply Chain and Product Sourcing Training Program",
+    "issuer": "Area71 Venture Limited",
+    "date": "Mar 2025",
     "credential_url": "#",
-    "tags": ["HTML", "CSS", "JavaScript", "Node.js"]
+    "tags": ["Supply Chain", "Procurement", "Sourcing"]
   },
   {
-    "title": "Docker & Kubernetes: The Practical Guide",
-    "issuer": "Udemy",
+    "title": "Advanced Diploma in Modelling and Analytics for Supply Chain Management",
+    "issuer": "Alison",
+    "date": "Mar 2025",
+    "credential_url": "https://alison.com/certification/check/bd73a9be76",
+    "tags": ["Supply Chain", "Procurement", "Sourcing"]
+  },
+  {
+    "title": "Product Management",
+    "issuer": "Bohubrihi",
     "date": "Sep 2023",
-    "credential_url": "#",
-    "tags": ["Docker", "Kubernetes", "DevOps"]
+    "credential_url": "https://res.cloudinary.com/bohubrihi/image/upload/v1695164150/production/650a26f137f25def948e9731.pdf",
+    "tags": ["Product Management", "Product Strategy", "Project Management"]
   },
   {
-    "title": "Natural Language Processing Specialization",
-    "issuer": "Coursera · DeepLearning.AI",
-    "date": "Feb 2024",
+    "title": "CS Fundamentals",
+    "issuer": "Phitron",
+    "date": "Sep 2024",
     "credential_url": "#",
-    "tags": ["NLP", "Transformers", "Python"]
-  },
-  {
-    "title": "AWS Cloud Practitioner Essentials",
-    "issuer": "AWS Training",
-    "date": "Jul 2023",
-    "credential_url": "#",
-    "tags": ["AWS", "Cloud", "DevOps"]
+    "tags": ["Python", "C/C++", "JavaScript", "Django", "Node.js", "HTML", "CSS", "Git", "GitHub"]
   }
 ]

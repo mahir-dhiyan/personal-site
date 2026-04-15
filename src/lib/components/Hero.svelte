@@ -1,12 +1,14 @@
 <script lang="ts">
 	import profile from '$lib/data/profile.json';
 	import SocialLinks from './SocialLinks.svelte';
+	import HeroParticles from './HeroParticles.svelte';
 	import FileTextIcon from '@lucide/svelte/icons/file-text';
 	import MapPinIcon from '@lucide/svelte/icons/map-pin';
 </script>
 
-<section id="hero" class="min-h-svh flex items-center pt-14">
-	<div class="max-w-3xl mx-auto px-6 py-24 w-full">
+<section id="hero" class="relative min-h-svh flex items-center pt-14 overflow-hidden">
+	<HeroParticles />
+	<div class="relative z-10 max-w-3xl mx-auto px-6 py-24 w-full">
 		<div class="flex flex-col-reverse md:flex-row items-center md:items-start gap-12 md:gap-16">
 			<!-- Text content -->
 			<div class="flex-1 text-center md:text-left">
@@ -57,7 +59,7 @@
 				</div>
 
 				<!-- Social icons -->
-				<SocialLinks layout="row" showLabels={false} />
+				<SocialLinks layout="row" showLabels={false} iconSize="size-6" gap="gap-6" />
 			</div>
 
 			<!-- Avatar -->

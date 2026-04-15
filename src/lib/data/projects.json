@@ -1,34 +1,31 @@
 [
   {
-    "title": "LexiSumm",
-    "description": "An abstractive text summarization tool powered by a fine-tuned BART model. Processes long-form Bengali and English documents and surfaces key insights through a clean Next.js interface.",
-    "tags": ["Python", "PyTorch", "HuggingFace", "Next.js"],
-    "github_url": "#",
-    "live_url": "#",
-    "featured": true
-  },
-  {
-    "title": "DevBoard",
-    "description": "A lightweight Kanban-style project management tool built for developer teams. Features real-time collaboration via WebSockets and native GitHub issue import.",
-    "tags": ["TypeScript", "SvelteKit", "PostgreSQL", "WebSockets"],
-    "github_url": "#",
+    "slug": "racing-bot",
+    "title": "Racing Bot",
+    "description": "Developed a high-performance Racing Bot for the Mechcellence 1.0 Mechanical Day competition organized by the AUST Mechanical Society. Showcased exceptional agility and speed, leading to subsequent participation in various other competitive robotics events.",
+    "long_description": "Our Racing Bot was originally developed for the Mechcellence 1.0 Mechanical Day competition organized by the AUST Mechanical Society, but its robust design allowed it to successfully participate in several other competitions across the country. To achieve superior high-speed maneuverability, we equipped the bot with BLDC (Brushless DC) motors paired with an intricate belt and pulley system. Recognizing the difficult and challenging nature of the competitive tracks, we also integrated dedicated shock absorbers to maintain stability, prevent damage, and ensure optimal handling at maximum speed.",
+    "tags": ["Robotics", "Hardware", "Engineering"],
+    "images": [
+      "Racing_bot.jpg",
+      "Racing_bot_design.png",
+      "Racing_bot_assembly.jpeg"
+    ],
+    "github_url": null,
     "live_url": null,
     "featured": true
   },
   {
-    "title": "BDWeather CLI",
-    "description": "A terminal weather companion for Bangladesh using the Bangladesh Meteorological Department's open API. Displays 7-day forecasts with ASCII art visualizations.",
-    "tags": ["Go", "CLI", "REST API"],
-    "github_url": "#",
+    "slug": "soccer-bot",
+    "title": "Soccer Bot",
+    "description": "Engineered a specialized Soccer Bot designed for competitive 1v1 robotic football matches. The robust design focused on tight ball control, precise maneuverability, and offensive mechanics to successfully score against opposing robots.",
+    "long_description": "The Soccer Bot was purposefully designed for competitive 1v1 robotic football matches, where out-maneuvering and out-scoring the opponent is critical. To dominate on the field, we utilized high-torque 9V motors, granting the bot immense pushing power to aggressively muscle opposing bots out of the way. Control and precision are equally crucial in scoring goals, so we incorporated a FlySky RC control system to provide smooth, immediate, and reliable remote handling under pressure.",
+    "tags": ["Robotics", "Hardware", "Engineering"],
+    "images": [
+      "Soccer_bot.jpg",
+      "CUBIT_Sigma.jpg"
+    ],
+    "github_url": null,
     "live_url": null,
-    "featured": false
-  },
-  {
-    "title": "AlgoViz",
-    "description": "An interactive algorithm visualizer for sorting, pathfinding, and tree traversal. Built as a learning tool for introductory data structures courses.",
-    "tags": ["JavaScript", "Canvas API", "CSS"],
-    "github_url": "#",
-    "live_url": "#",
-    "featured": false
+    "featured": true
   }
 ]

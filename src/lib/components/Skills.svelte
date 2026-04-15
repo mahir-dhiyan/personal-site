@@ -1,15 +1,18 @@
 <script lang="ts">
 	import SectionHeader from './SectionHeader.svelte';
 	import skills from '$lib/data/skills.json';
+	import { reveal } from '$lib/actions/reveal';
 </script>
 
-<section id="skills" class="py-24">
+<section id="skills" class="py-24 bg-white">
 	<div class="max-w-3xl mx-auto px-6">
-		<SectionHeader number="07" title="Skills" />
+		<div use:reveal>
+			<SectionHeader number="08" title="Skills" />
+		</div>
 
 		<div class="space-y-7">
-			{#each Object.entries(skills) as [category, items]}
-				<div>
+			{#each Object.entries(skills) as [category, items], i}
+				<div use:reveal={{ delay: i * 80 }}>
 					<h3 class="text-xs font-mono text-ink-subtle uppercase tracking-widest mb-3">
 						{category}
 					</h3>

@@ -1,7 +1,42 @@
 {
-  "Languages": ["Python", "TypeScript", "JavaScript", "Go", "C", "C++", "SQL"],
-  "Frameworks & Libraries": ["SvelteKit", "Next.js", "React", "FastAPI", "PyTorch", "HuggingFace Transformers", "Node.js"],
-  "Databases": ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
-  "Tools & Platforms": ["Git", "Docker", "Kubernetes", "Linux", "AWS", "Vercel", "Figma"],
-  "Concepts": ["Machine Learning", "Natural Language Processing", "REST APIs", "GraphQL", "CI/CD", "Agile/Scrum"]
+  "Microsoft Suite & Analytics": [
+    "Microsoft Excel",
+    "Microsoft PowerBI",
+    "Microsoft PowerPoint"
+  ],
+  "Languages": [
+    "Python",
+    "JavaScript",
+    "C",
+    "C++",
+    "SQL"
+  ],
+  "Machine Learning & AI": [
+    "Physics-Informed Neural Networks (PINN)",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "Frameworks & Libraries": [
+    "PyTorch",
+    "Django",
+    "SvelteKit",
+    "Next.js",
+    "React",
+    "Node.js"
+  ],
+  "Creative & Multimedia": [
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "Figma"
+  ],
+  "Databases": [
+    "PostgreSQL",
+    "MongoDB",
+    "SQLite"
+  ],
+  "Tools & Concepts": [
+    "Data Structures and Algorithms",
+    "Git",
+    "Vercel"
+  ]
 }
