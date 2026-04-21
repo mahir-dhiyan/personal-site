@@ -13,7 +13,7 @@
 				<h2 class="text-2xl font-semibold text-ink tracking-tight mb-3">Curriculum Vitae</h2>
 				<p class="text-sm text-ink-muted leading-relaxed max-w-sm">
 					A comprehensive overview of my academic background, professional experience, research, and
-					skills. Last updated April 2026.
+					skills.
 				</p>
 			</div>
 			<a
