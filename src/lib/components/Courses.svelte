@@ -12,9 +12,9 @@
 			<SectionHeader number="02" title="Courses & Certifications" />
 		</div>
 
-		<div class="grid sm:grid-cols-2 gap-4">
+		<div class="grid sm:grid-cols-2 gap-4" style="grid-auto-rows: 1fr;">
 			{#each courses as course, i}
-				<article class="course-card border border-border rounded-lg p-5 flex flex-col gap-3" use:reveal={{ delay: i * 80 }}>
+				<article class="course-card border border-border rounded-lg p-5 flex flex-col gap-3 h-full" use:reveal={{ delay: i * 80 }}>
 					<div class="flex items-start gap-3">
 						<AwardIcon class="course-icon size-4 text-ink-subtle mt-0.5 shrink-0" />
 						<div class="flex-1 min-w-0">

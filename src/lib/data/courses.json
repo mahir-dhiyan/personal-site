@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Excel Bootcamp: Zero to Mastery",
+    "issuer": "ZTM Academy",
+    "date": "May 2026",
+    "credential_url": "https://zerotomastery.io/certificate/CERT_8TT5R1GY",
+    "tags": ["Excel", "Data Analysis", "Spreadsheets"]
+  },
+  {
+    "title": "Complete SQL + Databases Bootcamp: Zero to Mastery",
+    "issuer": "ZTM Academy",
+    "date": "Apr 2026",
+    "credential_url": "https://zerotomastery.io/certificate/CERT_YR59S41W",
+    "tags": ["SQL", "Databases", "Data Management"]
+  },
+  {
     "title": "Introduction to Deep Learning with PyTorch",
     "issuer": "DataCamp",
     "date": "Dec 2025",
