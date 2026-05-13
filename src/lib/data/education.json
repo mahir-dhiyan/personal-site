@@ -3,8 +3,8 @@
     "institution": "Chittagong University of Engineering and Technology",
     "degree": "B.Sc. in Mechanical Engineering",
     "year": "2022 - 2026",
-    "gpa": "3.35 / 4.00",
     "location": "Chattogram, Bangladesh",
+    "logo": "CUET_Logo.png",
     "relevant_courses": ["Applied Thermodynamics", "Fluid Mechanics", "Heat Transfer", "Machine Design", "Control Systems", "Robotics"]
   },
   {
@@ -13,6 +13,7 @@
     "year": "2018 - 2020",
     "gpa": "5.00 / 5.00",
     "location": "Chattogram, Bangladesh",
+    "logo": "Mohsin_Logo.png",
     "relevant_courses": []
   },
   {
@@ -21,6 +22,7 @@
     "year": "2016 - 2018",
     "gpa": "5.00 / 5.00",
     "location": "Chattogram, Bangladesh",
+    "logo": "IPSC_Logo.png",
     "relevant_courses": []
   }
 ]
